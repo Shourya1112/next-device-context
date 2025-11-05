@@ -189,10 +189,6 @@ function MyComponent() {
 - React >= 17
 - React DOM >= 17
 
-## License
-
-MIT
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
